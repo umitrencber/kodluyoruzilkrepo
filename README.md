@@ -8,7 +8,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.Bu repo  p   Patika.dev ile
 
 # KURULUM
 ```
-git clone 
+git clone https://github.com/umitrencber/kodluyoruzilkrepo.git
 
 ```
 # BİLGİSAYARDA VSC AÇMA
